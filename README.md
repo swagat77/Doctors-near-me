@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This simple project is completed in 2 hours and deployed  in netlify.  You can find the link to project here: https://dulcet-naiad-f2cb1b.netlify.app/
+This simple project is completed in 3 hours and deployed  in netlify.  You can find the link to project here: https://dulcet-naiad-f2cb1b.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
